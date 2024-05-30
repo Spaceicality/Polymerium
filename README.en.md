@@ -8,14 +8,14 @@
 <h3 align="center">Polymerium</h3>
 
   <p>
-    为 Minecraft 准备的游戏实例管理器 | Minecraft-Ready Instance Manager
+    Minecraft-Ready Instance Manager
     <br />
-    <a href="https://github.com/d3ara1n/Polymerium/wiki"><strong>查看文档 | View Docs »</strong></a>
+    <a href="https://github.com/d3ara1n/Polymerium/wiki"><strong>View Docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/d3ara1n/Polymerium/issues">反馈 | Feedback</a>
+    <a href="https://github.com/d3ara1n/Polymerium/issues">Feedback</a>
     ·
-    <a href="https://github.com/d3ara1n/Polymerium/discussions">讨论 | Discussion</a>
+    <a href="https://github.com/d3ara1n/Polymerium/discussions">Discussion</a>
   </p>
 </div>
 
@@ -28,27 +28,19 @@
 
 <!-- ABOUT THE PROJECT -->
 
-## I.关于
+## I. About
 
 [![Screenshot][product-screenshot]](#关于)
 
-**这是个 WIP 早期项目，大部分功能还没写完或仅存在于设计，开发进度请参考 [Roadmap](#roadmap)。**
-
-## I.About
-
 **It's in very early stage and most features are under development. Refer to [Roadmap](#roadmap) for progress.**
 
-### 1.理念 
+### 1. Concepts
 
-正如其缝合的名字一样，Polymerium 的主要目标是整合 Minecraft
-的游戏资源，而非单单启动游戏。其使用与启动器完全不同的思路来管理游戏资源：创建实例元数据，使用部署引擎将游戏本地文件还原到元数据所描述的状态；
-Polymerium不维护游戏文件，只维护实例元数据。
+As its stitched name suggests, Polymerium's main goal is to integrate Minecraft's game resources, rather than launching the game alone. It uses a completely different mindset than a launcher to manage game resources: creating instance metadata and using a deployment engine to restore the game's local files to the state described by the metadata; Polymerium doesn't maintain the game files, only the instance metadata.
 
-相比于其他国产的游戏核心概念和版本隔离模式，Polymerium 以更为抽象的“游戏体验”概念和其具象表现“实例”来管理游戏。
-这种方式结合了国际主流的现代化管理方式和 a little bit of personal flavor。
+Compared with other domestic game core concepts and version isolation models, Polymerium manages games with a more abstract concept of "game experience" and its concrete manifestation "instances". This approach combines the international mainstream modern management method with a little bit of personal flavor.
 
-有关于 Polymerium
-的模式请参阅[核心概念](https://github.com/d3ara1n/Polymerium/wiki/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5)。
+See [Core Concepts](https://github.com/d3ara1n/Polymerium/wiki/%E6%A0%B8%E5%BF%83%E6%A6%82%E5%BF%B5) for more information about Polymerium's patterns.
 
 ## 1.Philosophy
 

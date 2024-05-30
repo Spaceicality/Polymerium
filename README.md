@@ -25,6 +25,8 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+<br>
+[![Language][license-shield]][license-url]
 
 <!-- ABOUT THE PROJECT -->
 
